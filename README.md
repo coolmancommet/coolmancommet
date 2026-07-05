@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="100" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=28&duration=3000&pause=1000&color=E95420&center=true&vCenter=true&repeat=true&width=1000&lines=ML+%26+AI+Engineer+%7C+Powered+by+Ubuntu+%F0%9F%94%B6;4%2B+Years+Architecting+AI+Solutions;Generative+AI+%7C+LLMs+%7C+Agentic+Systems;sudo+apt-get+install+neural-networks+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=28&duration=3000&pause=1000&color=E95420&center=true&vCenter=true&repeat=true&width=1000&lines=ML+%26+AI+Engineer;4%2B+Years+Architecting+AI+Solutions;Generative+AI+%7C+LLMs+%7C+Agentic+Systems;sudo+apt-get+install+neural-networks+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
